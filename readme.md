@@ -1,6 +1,6 @@
 # Tone drills using Praat quickstart guide
 
-Praat can be a very useful tool for training your Chinese tones. This quickstore guide will help you get up and running without having to dive into the advanced features of Praat.
+Praat can be a very useful tool for training your Chinese tones. This quickstart guide will help you get up and running without having to dive into the advanced features of Praat.
 
 ## Setup
 
